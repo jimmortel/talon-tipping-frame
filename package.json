@@ -1,10 +1,10 @@
 {
   "name": "talon-tipping-frame",
   "version": "1.0.0",
-  "description": "TALON tipping frame for Farcaster",
-  "type": "module",
-  "main": "index.html",
-  "engines": {
-    "node": ">=18.0.0"
+  "scripts": {
+    "build": "echo 'Build skipped, static site only'"
+  },
+  "dependencies": {
+    "vercel": "latest"
   }
 }
